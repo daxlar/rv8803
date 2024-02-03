@@ -1,0 +1,1 @@
+add_subdirectory_ifdef(CONFIG_RV8803 rv8803)
